@@ -1,0 +1,18 @@
+
+
+.card--red{
+    border-top:3px solid var(--red);
+}
+
+.card--cyan{
+    border-top:3px solid var(--cyan);
+}
+
+.card--orange{
+    border-top:3px solid var(--orange);
+
+}
+.card--blue{
+    border-top:3px solid var(--blue);
+
+}

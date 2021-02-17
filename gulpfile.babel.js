@@ -105,7 +105,7 @@ gulp.task('babel', () => {
 
 gulp.task('clean', () => {
   return gulp
-    .src('./public/css/styles.css')
+    .src('./public/css/styles-min.css')
     .pipe(plumber())
     .pipe(
       clean({
